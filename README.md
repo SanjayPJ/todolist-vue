@@ -1,4 +1,8 @@
-# ninja-default
+# todolist-vue
+
+### Screenshots
+
+![Screeshot](screen.png)
 
 ## Project setup
 ```
